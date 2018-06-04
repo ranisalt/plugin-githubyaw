@@ -1,7 +1,7 @@
 <img src="https://cdn.rawgit.com/oh-my-fish/oh-my-fish/e4f1c2e0219a17e2c748b824004c8d0b38055c16/docs/logo.svg" align="left" width="144px" height="144px"/>
 
 #### gityaw
-> Change Git HTTP remote to SSH.
+> Change Github remote to Gitlab.
 
 [![MIT License](https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square)](/LICENSE)
 [![Fish Shell Version](https://img.shields.io/badge/fish-v2.2.0-007EC7.svg?style=flat-square)](https://fishshell.com)
@@ -13,20 +13,20 @@
 ## Install
 
 ```fish
-$ omf install gityaw
+$ omf install https://github.com/ranisalt/githubyaw
 ```
 
 
 ## Usage
 
 ```fish
-$ gityaw
+$ githubyaw [remotes...]
 ```
 
 
 # License
 
-[MIT][mit] © [Derek Stavis][author] et [al][contributors]
+[MIT][mit] © [Ranieri Althoff][author] et [al][contributors]
 
 
 [mit]:            https://opensource.org/licenses/MIT
